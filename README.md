@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Sou Fernando H. Antero</h1>
 <h3 align="center">Analista de Dados, com 5 anos de experiência em desenvolvimento de software e manipulação de grandes volumes de dados. Pós-graduando em Ciência de Dados, com competências em modelagem relacional e dimensional, SQL e Python. Quero contribuir para a construção de pipelines e análise de dados em projetos inovadores.</h3>
 
-- 📫 How to reach me **fernando.antero@protonmail.com**
+- 📫 Como entrar em contato comigo:  **fernando.antero@protonmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/fernandoanteroanalytics/](https://www.linkedin.com/in/fernandoanteroanalytics/)
+- 📄 Minhas experiências [https://www.linkedin.com/in/fernandoanteroanalytics/](https://www.linkedin.com/in/fernandoanteroanalytics/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
